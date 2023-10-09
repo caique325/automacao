@@ -1,6 +1,6 @@
 https://flask.palletsprojects.com/en/3.0.x/#
 git config --global user.name "caique325"
-PS C:\Users\aluno\Desktop\automacao> git config --global user.email "caique-magalhaes1@outlook.com"
+git config --global user.email "caique-magalhaes1@outlook.com"
 
 pip 1- preparaçao do ambiente 
 	1.1 - Criar o ambiente virtual
