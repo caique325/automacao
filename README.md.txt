@@ -13,3 +13,9 @@ pip 1- preparaçao do ambiente
 
 flask --app mecpy run --debug
 flask --app mecpy init-db 
+
+https://flask.palletsprojects.com/en/3.0.x/tutorial/database/
+https://flask.palletsprojects.com/en/3.0.x/tutorial/views/
+https://flask.palletsprojects.com/en/3.0.x/tutorial/templates/
+https://flask.palletsprojects.com/en/3.0.x/tutorial/static/
+https://flask.palletsprojects.com/en/3.0.x/tutorial/blog/
