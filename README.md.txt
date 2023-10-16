@@ -19,3 +19,4 @@ https://flask.palletsprojects.com/en/3.0.x/tutorial/views/
 https://flask.palletsprojects.com/en/3.0.x/tutorial/templates/
 https://flask.palletsprojects.com/en/3.0.x/tutorial/static/
 https://flask.palletsprojects.com/en/3.0.x/tutorial/blog/
+https://flask.palletsprojects.com/en/3.0.x/patterns/fileuploads/
