@@ -12,3 +12,4 @@ pip 1- preparaçao do ambiente
 
 
 flask --app mecpy run --debug
+flask --app mecpy init-db 
