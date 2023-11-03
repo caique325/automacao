@@ -10,3 +10,4 @@ flask --app mecpy run --debug
 flask --app mecpy run --debug
 salvamento de pacotes : pip freeze>requirements.txt
 instalar pacotes salvos : pip install -r requirements.txt
+inicializando banco de dados : $ flask --app flaskr init-db
