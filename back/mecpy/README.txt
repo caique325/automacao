@@ -53,9 +53,28 @@ delay(1000);
 
 
 
-
+-----Esp32------
 link1: https://www.upesy.com/blogs/tutorials/esp32-pinout-reference-gpio-pins-ultimate-guide#
 
 Adicional Board Manager
 by tiago.curtinhas on 2023-12-04
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
+
+Rede conexão
+by tiago.curtinhas on 2023-12-11
+rede: JAMES_NOTE
+
+senha: 7vEL0769
+
+
+ESP32 DHT Server: 192.168.137.25:5050
+Exemplo webserver
+by tiago.curtinhas on 2023-12-11
+https://randomnerdtutorials.com/esp32-dht11-dht22-temperature-humidity-web-server-arduino-ide/
+
+https://github.com/me-no-dev/ESPAsyncWebServer
+
+
+
+
+
